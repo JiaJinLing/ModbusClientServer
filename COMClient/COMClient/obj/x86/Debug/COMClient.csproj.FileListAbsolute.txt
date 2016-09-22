@@ -1,0 +1,16 @@
+D:\项目代码\售药机项目\串口通信2\COMClient\COMClient\bin\Debug\COMClient.exe
+D:\项目代码\售药机项目\串口通信2\COMClient\COMClient\bin\Debug\COMClient.pdb
+D:\项目代码\售药机项目\串口通信2\COMClient\COMClient\obj\x86\Debug\COMClient.Form1.resources
+D:\项目代码\售药机项目\串口通信2\COMClient\COMClient\obj\x86\Debug\COMClient.Properties.Resources.resources
+D:\项目代码\售药机项目\串口通信2\COMClient\COMClient\obj\x86\Debug\COMClient.csproj.GenerateResource.Cache
+D:\项目代码\售药机项目\串口通信2\COMClient\COMClient\obj\x86\Debug\COMClient.exe
+D:\项目代码\售药机项目\串口通信2\COMClient\COMClient\obj\x86\Debug\COMClient.pdb
+D:\项目代码\售药机项目\串口通信2\COMClient\COMClient\obj\x86\Debug\COMClient.csprojResolveAssemblyReference.cache
+C:\Users\JinLing\Desktop\C_涓插彛閫氫俊婧愮爜2014骞_2鏈_鏃\C#串口通信_Client和Server_2014年12月2日15时46分\COMClient\COMClient\obj\x86\Debug\COMClient.exe
+C:\Users\JinLing\Desktop\C_涓插彛閫氫俊婧愮爜2014骞_2鏈_鏃\C#串口通信_Client和Server_2014年12月2日15时46分\COMClient\COMClient\obj\x86\Debug\COMClient.pdb
+C:\Users\JinLing\Desktop\C_涓插彛閫氫俊婧愮爜2014骞_2鏈_鏃\C#串口通信_Client和Server_2014年12月2日15时46分\COMClient\COMClient\bin\Debug\COMClient.exe
+C:\Users\JinLing\Desktop\C_涓插彛閫氫俊婧愮爜2014骞_2鏈_鏃\C#串口通信_Client和Server_2014年12月2日15时46分\COMClient\COMClient\bin\Debug\COMClient.pdb
+C:\Users\JinLing\Desktop\C_涓插彛閫氫俊婧愮爜2014骞_2鏈_鏃\C#串口通信_Client和Server_2014年12月2日15时46分\COMClient\COMClient\obj\x86\Debug\COMClient.csprojResolveAssemblyReference.cache
+C:\Users\JinLing\Desktop\C_涓插彛閫氫俊婧愮爜2014骞_2鏈_鏃\C#串口通信_Client和Server_2014年12月2日15时46分\COMClient\COMClient\obj\x86\Debug\COMClient.Form1.resources
+C:\Users\JinLing\Desktop\C_涓插彛閫氫俊婧愮爜2014骞_2鏈_鏃\C#串口通信_Client和Server_2014年12月2日15时46分\COMClient\COMClient\obj\x86\Debug\COMClient.Properties.Resources.resources
+C:\Users\JinLing\Desktop\C_涓插彛閫氫俊婧愮爜2014骞_2鏈_鏃\C#串口通信_Client和Server_2014年12月2日15时46分\COMClient\COMClient\obj\x86\Debug\COMClient.csproj.GenerateResource.Cache

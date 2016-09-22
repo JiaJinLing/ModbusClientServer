@@ -1,0 +1,15 @@
+D:\项目代码\售药机项目\串口通信2\COMServer\COMServer\bin\Debug\COMServer.exe
+D:\项目代码\售药机项目\串口通信2\COMServer\COMServer\bin\Debug\COMServer.pdb
+D:\项目代码\售药机项目\串口通信2\COMServer\COMServer\obj\x86\Debug\COMServer.Form1.resources
+D:\项目代码\售药机项目\串口通信2\COMServer\COMServer\obj\x86\Debug\COMServer.Properties.Resources.resources
+D:\项目代码\售药机项目\串口通信2\COMServer\COMServer\obj\x86\Debug\COMServer.csproj.GenerateResource.Cache
+D:\项目代码\售药机项目\串口通信2\COMServer\COMServer\obj\x86\Debug\COMServer.exe
+D:\项目代码\售药机项目\串口通信2\COMServer\COMServer\obj\x86\Debug\COMServer.pdb
+C:\Users\JinLing\Desktop\C_涓插彛閫氫俊婧愮爜2014骞_2鏈_鏃\C#串口通信_Client和Server_2014年12月2日15时46分\COMServer\COMServer\obj\x86\Debug\COMServer.exe
+C:\Users\JinLing\Desktop\C_涓插彛閫氫俊婧愮爜2014骞_2鏈_鏃\C#串口通信_Client和Server_2014年12月2日15时46分\COMServer\COMServer\obj\x86\Debug\COMServer.pdb
+C:\Users\JinLing\Desktop\C_涓插彛閫氫俊婧愮爜2014骞_2鏈_鏃\C#串口通信_Client和Server_2014年12月2日15时46分\COMServer\COMServer\bin\Debug\COMServer.exe
+C:\Users\JinLing\Desktop\C_涓插彛閫氫俊婧愮爜2014骞_2鏈_鏃\C#串口通信_Client和Server_2014年12月2日15时46分\COMServer\COMServer\bin\Debug\COMServer.pdb
+C:\Users\JinLing\Desktop\C_涓插彛閫氫俊婧愮爜2014骞_2鏈_鏃\C#串口通信_Client和Server_2014年12月2日15时46分\COMServer\COMServer\obj\x86\Debug\COMServer.csprojResolveAssemblyReference.cache
+C:\Users\JinLing\Desktop\C_涓插彛閫氫俊婧愮爜2014骞_2鏈_鏃\C#串口通信_Client和Server_2014年12月2日15时46分\COMServer\COMServer\obj\x86\Debug\COMServer.Form1.resources
+C:\Users\JinLing\Desktop\C_涓插彛閫氫俊婧愮爜2014骞_2鏈_鏃\C#串口通信_Client和Server_2014年12月2日15时46分\COMServer\COMServer\obj\x86\Debug\COMServer.Properties.Resources.resources
+C:\Users\JinLing\Desktop\C_涓插彛閫氫俊婧愮爜2014骞_2鏈_鏃\C#串口通信_Client和Server_2014年12月2日15时46分\COMServer\COMServer\obj\x86\Debug\COMServer.csproj.GenerateResource.Cache
